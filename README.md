@@ -1,2 +1,3 @@
-# writing-cosmos
-DoneDone's UX Writing Helper
+# convention-cosmos
+
+DoneDone's Code Convention Helper
