@@ -6,7 +6,7 @@
 <p align="center">
   <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue"/></a>
   <a href="https://developer.android.com/about/versions/lollipop"><img alt="API 21+" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg"/></a>
-  <a href="https://jisungbin.notion.site/Android-Convention-71b546560fe545c2a5f346ab5771c271"><img alt="codestyle" src="https://raw.githubusercontent.com/TodayDoneDone/convention-cosmos/main/assets/codestyle-badge.svg"/></a>
+  <a href="https://jisungbin.notion.site/Android-71b546560fe545c2a5f346ab5771c271"><img alt="codestyle" src="https://raw.githubusercontent.com/TodayDoneDone/convention-cosmos/main/assets/codestyle-badge.svg"/></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 #### Badge
 
 ```html
-<a href="https://jisungbin.notion.site/Android-Convention-71b546560fe545c2a5f346ab5771c271"><img alt="codestyle" src="https://raw.githubusercontent.com/TodayDoneDone/convention-cosmos/main/assets/codestyle-badge.svg"/></a>
+<a href="https://jisungbin.notion.site/Android-71b546560fe545c2a5f346ab5771c271"><img alt="codestyle" src="https://raw.githubusercontent.com/TodayDoneDone/convention-cosmos/main/assets/codestyle-badge.svg"/></a>
 ```
 
 ## Why 🌌?
